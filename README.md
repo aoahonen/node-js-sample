@@ -1,17 +1,16 @@
 # node-js-sample [..edited..]
 
-A barebones Node.js app using [Express 4](http://expressjs.com/).
+~~A barebones Node.js app using [Express 4](http://expressjs.com/).~~
+A barebones Node.js app using [Express 4](http://expressjs.com/) and [AngularJS](https://angularjs.org/) !
 
 ## Edits
 
 Changed index.js to server.js so file naming would serve the idea of this fork.
 And the idea was to make a personal barabones starting point to (M)EAN app that I could use to spin up quick node/heroku projects, you know for fun ;) 
 
-So i've added few files and folders. So the title of this Readme should actually be :
+So i've added few files and folders.
 
-A barebones Node.js app using [Express 4](http://expressjs.com/) and  [AngularJS](https://angularjs.org/) !
-
-...Original Readme continues...
+** ...Original Readme continues... **
 
 ## Running Locally
 
