@@ -6,7 +6,7 @@ A barebones Node.js app using [Express 4](http://expressjs.com/) and [AngularJS]
 ## Edits
 
 Changed index.js to server.js so file naming would serve the idea of this fork.
-And the idea was to make a personal barabones starting point to (M)EAN app that I could use to spin up quick node/heroku projects, you know for fun ;) 
+And the idea was to make a personal barebones starting point to (M)EAN app that I could use to spin up quick personal node/heroku projects, ror fun and non-profit ;) 
 
 So i've added few files and folders.
 
